@@ -1,0 +1,37 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  
+
+<category>
+	<pattern>السلام عليكم</pattern>
+	<template>وعليكم السلام ورحمة اللَّٰه و بركاته</template>
+</category>
+
+<category>
+    <pattern>السلام عليكم ورحمة الله و بركاته</pattern>
+    <template>وعليكم السلام ورحمة اللَّٰه و بركاته</template>
+</category>
+<category>
+    <pattern>السلام عليكم ورحمة اللَّٰه و بركاته</pattern>
+    <template>وعليكم السلام ورحمة اللَّٰه و بركاته</template>
+</category>
+<category>
+    <pattern>اهلا</pattern>
+    <template>اهلا</template>
+</category>
+<category>
+    <pattern>هل أنت مسلم</pattern>
+    <template>نعم</template>
+</category>
+<category>
+    <pattern>ما هو الاسلام</pattern>
+    <template>الاسلام هو دين الله الواحد الأحد  وهو دين الحق و العدل</template>
+</category>
+<category>
+    <pattern>من انت</pattern>
+    <template>وعليكم السلانا روبوت مسلم</template>
+</category>
+
+
+</aiml>
